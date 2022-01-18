@@ -1,0 +1,114 @@
+#coupon{
+    margin-top:12%;
+    margin-left: 27%;
+    z-index: 100;
+    visibility: hidden;
+}
+
+.navbar{
+    margin-top:-33%;
+    height:65px;
+    color:black;
+
+}
+
+#oyo{
+    margin-left:50px;
+    margin-top: -11px ;
+}
+.icon{
+    height:40px;
+}
+
+#location{
+    height:50px;
+    
+    margin-top: -19px;
+}
+.dropdown{
+    margin-left:14%;
+    word-spacing:50px;
+    font-size:20px;
+    margin-top:2%;
+
+}
+
+/* search*/
+
+#search{
+    height:250px;
+    border:2px solid red;
+    margin-top: 0%;
+    background-color:rgb(219, 15, 42) ;
+}
+#heading{
+    color:aliceblue;
+    
+    font-weight: bold;
+    margin-left: 309px;
+    margin-top: 42px;
+
+}
+
+.ad{
+    margin-left:204px;
+    margin-top:30px;
+    float:left;
+
+}
+
+.ad1{
+    margin-left: 969px;
+    margin-top: -290px;
+    height: 290px;
+    float: left;
+
+}
+
+.city{
+    margin-left: 27%;
+    margin-top: 30px;
+    height: 56px;
+    width: 149px;
+}
+
+.hotels{
+    margin-left: 1%;
+    margin-top: 30px;
+    height: 56px;
+    width: 410px;
+
+}
+
+.btn-success{
+    margin-left: 1%;
+    margin-top: -2px;
+    height: 56px;
+    width: 80px;
+}
+
+/* second adv*/
+
+.secpic{
+    height:30%;
+    width:100%;
+    margin-top:1%;
+    margin-left:2%;
+
+}
+/*3rd ad*/
+.thirdad{
+    margin-left: -9%;
+    margin-top: 5%;
+
+}
+
+#coupon{
+    margin-top:12%;
+    margin-left: 27%;
+    z-index:100;
+    position:relative;
+
+    visibility: visible;
+    
+}
