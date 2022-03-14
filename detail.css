@@ -1,0 +1,51 @@
+.navbar{
+
+    height:65px;
+    color:black;
+
+}
+
+#oyo{
+    margin-left:50px;
+    margin-top: -11px ;
+}
+.icon{
+    height:40px;
+}
+.picd{
+    height: 450px;
+    width:45%;
+    float:left;
+}
+
+/*details*/
+.details{
+    display:inline-block;
+    margin-left:5%;
+    border-top:1px solid black;
+    width:50%;
+    float:left;
+
+}
+.heading{
+    font-size:42px;font-weight:bold;
+}
+.subheading{
+    color:grey;
+}
+
+/*payment*/
+.payment{
+    border:1px solid black;
+    margin-left: 2%;
+    margin-top:2%;
+    float:left;
+    height:600px;
+    width:40%;
+}
+
+.login{
+    height:12%;
+    background-color:rgb(243, 42, 42);
+}
+

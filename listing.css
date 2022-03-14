@@ -1,0 +1,55 @@
+.navbar{
+    height:65px;
+    color:black;
+
+}
+
+#oyo{
+    margin-left:50px;
+    margin-top: -11px ;
+}
+.icon{
+    height:40px;
+}
+
+/* warning*/
+.covid{
+    background-color:orange;
+    text-align:center;
+    height:40px;
+    margin-top:0%;
+
+}
+/*filter*/
+.filter{
+    border:1px solid black;
+    margin-left: 1%;
+    margin-top: 2%;
+    height:500px;
+    width: 20%;
+    float:left;
+}
+
+/*container*/
+.container{
+    border:1px solid black;
+    margin-left: 25%;
+    margin-top: 5%;
+    height:800px;
+    width: 70%;
+}
+.card{
+    border:1px solid black;
+    height:300px;
+    margin-top: 5%;
+}
+
+.pic{
+    height:100%;
+    float:left;
+}
+
+.rating{
+    height:20px;
+    width:20px;
+}

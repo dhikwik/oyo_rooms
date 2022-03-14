@@ -98,9 +98,13 @@
 }
 /*3rd ad*/
 .thirdad{
-    margin-left: -9%;
-    margin-top: 5%;
+    margin-left: 5%;
+    margin-top: 2%;
 
+}
+.thirdad>img{
+    width: 95%;
+    margin-left:1%;
 }
 
 #coupon{
